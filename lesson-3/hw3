@@ -1,0 +1,16 @@
+#Homework
+#1 Create a program to ask name and year of birth from user and tell them their age.
+Name=input("Your name:")
+Age=input("Age:")
+print(f"{Name}, you are {Age} years old")
+#2 Extract car names from this text.
+txt = 'LMaasleitbtui'
+print(txt[::2])
+print(txt[1::2])
+#3 Extract car names from this text.
+txt = 'MsaatmiazD'
+print(txt[::2])
+print(txt[-1::-2])
+#4 Extract residence area from this text.
+txt = "I'am John. I am from London" 
+print(txt[-6::])

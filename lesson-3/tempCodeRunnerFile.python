@@ -1,0 +1,3 @@
+Name=input("Your name:")
+Age=input("Age:")
+print(f"{Name} you are {Age}years old")
